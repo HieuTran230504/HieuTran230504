@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning to become a Data Engineer <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/deb4d590-da0b-4a95-9404-a0ff31532e71" />
+I’m currently learning to become a Data Engineer
 
 <!--
 **HieuTran230504/HieuTran230504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
