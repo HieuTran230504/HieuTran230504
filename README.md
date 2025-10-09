@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning to become a Data Engineer 🛠
+**I’m currently learning to become a Data Engineer 🛠**
 
 <!--
 **HieuTran230504/HieuTran230504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
