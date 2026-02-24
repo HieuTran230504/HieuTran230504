@@ -1,5 +1,6 @@
-## Hi there 👋
+## 💫About Me :
 **I’m currently learning to become a Data Engineer 🛠**
+I'm an IT student at the University of Information Technology, Vietnam National University - Ho Chi Minh City.
 
 <!--
 **HieuTran230504/HieuTran230504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
