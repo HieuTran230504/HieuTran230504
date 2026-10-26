@@ -13,5 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HieuTran230504&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Contact
-📧 Email: hieutran230504@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-509560341/
+* 📧 Email: hieutran230504@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-509560341/
